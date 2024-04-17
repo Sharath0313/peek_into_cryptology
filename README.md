@@ -1,4 +1,4 @@
-# CS641 PAssignments
+# CS641 Assignments
 
 ## Run Locally
 
